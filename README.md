@@ -20,9 +20,9 @@ Welcome to ShineMasters, a premier cleaning services website that offers top-not
 
 To deploy the ShineMasters website locally, follow these steps:
 
-1. Clone the repository from GitHub: ``` git clone https://github.com/your-username/shinemasters.git ```
+1. Clone the repository from GitHub: ``` git clone https://github.com/your-username/ShineMasters-FRT_Project.git ```
 
-2. Navigate to the project directory: ``` cd shinemasters ```
+2. Navigate to the project directory: ``` cd ShineMasters-FRT_Project ```
 
 3. Open the ``` index.html ``` file in a web browser.
 
@@ -67,7 +67,7 @@ To deploy the ShineMasters website locally, follow these steps:
 ![image](https://github.com/nagasrikotha/ShineMasters-FRT_Project/assets/101505094/4f26b88b-7b57-4ff5-b831-e1bc0f050ea5)
 
 ### ShineBot (Chatbot) Page
-![image](https://github.com/nagasrikotha/ShineMasters-FRT_Project/assets/101505094/92331507-e7a8-4db0-a2f6-2d5acddf0deb)
+![image](https://github.com/nagasrikotha/ShineMasters-FRT_Project/assets/101505094/2ab68a26-4d49-4f13-8d4a-fc324283c800)
 
 ## Acknowledgements
 I would like to express my sincere gratitude to Future Ready Talent, GitHub, and Microsoft Azure for providing me with the opportunity to work on this project.
